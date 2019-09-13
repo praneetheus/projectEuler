@@ -1,0 +1,1 @@
+Attempt at solving as many challenges from project Euler as I can
